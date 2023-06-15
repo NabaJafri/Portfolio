@@ -25,7 +25,7 @@ export const Project =()=>{
   ]
   return(
     <section className="project" id="project"> 
-    <Container>
+    <Container> 
         <Row>
             <Col>
             <h2>Projects</h2>
