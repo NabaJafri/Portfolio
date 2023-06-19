@@ -8,18 +8,18 @@ import projectImg3 from '../assets/img/project-img3.png'
 export const Project =()=>{
   const projects =[
     {
-        title: "AddddBC",
-        description: "React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations (2022)",
+        title: "1st Project",
+        description: "This will be the description of my first project",
         imgURL:projectImg3
     },
     {
-        title: "ABC",
-        description: "React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations (2022)",
+        title: "2nd Project",
+        description: "This will be the description of my second project",
         imgURL:projectImg3
     },
     {
-        title: "ABC",
-        description: "React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations (2022)",
+        title: "3rd Project",
+        description: "This will be the description of my third project",
         imgURL:projectImg3
     }
   ]
